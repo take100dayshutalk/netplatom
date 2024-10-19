@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"databasepool/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "databasepool_autogen_timestamp_deps::@3fac9029014f9e212802",
+	"isGeneratorProvided" : true,
+	"name" : "databasepool_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "databasepool",
+		"source" : "databasepool"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

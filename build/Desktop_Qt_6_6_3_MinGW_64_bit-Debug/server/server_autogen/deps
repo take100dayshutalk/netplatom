@@ -1,0 +1,32 @@
+server_autogen/timestamp: \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/Qt6Config.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/Qt6VersionlessTargets.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtFeature.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
+	D:/QT/6.6.3/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
+	D:/QT/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake \
+	D:/QT/Tools/CMake_64/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake \
+	D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	D:/qtproject/bigproject/server/CMakeLists.txt \
+	D:/qtproject/bigproject/server/analysisdata.cpp \
+	D:/qtproject/bigproject/server/analysisdata.h \
+	D:/qtproject/bigproject/server/resultcode.h \
+	D:/qtproject/bigproject/server/server.cpp \
+	D:/qtproject/bigproject/server/server.h \
+	D:/QT/Tools/CMake_64/bin/cmake.exe

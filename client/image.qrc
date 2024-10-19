@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>close.png</file>
+        <file>close_active.png</file>
+        <file>style.css</file>
+        <file>back.png</file>
+        <file>back2.png</file>
+        <file>teacher.png</file>
+        <file>student.png</file>
+    </qresource>
+</RCC>

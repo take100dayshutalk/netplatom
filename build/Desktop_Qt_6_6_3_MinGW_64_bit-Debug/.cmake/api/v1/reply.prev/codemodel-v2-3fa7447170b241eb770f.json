@@ -1,0 +1,192 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "server",
+					"jsonFile" : "directory-server-Debug-ca16530337ce509e32d1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "server",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "databasepool",
+					"jsonFile" : "directory-databasepool-Debug-f7aabf9737c9933eb4e7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "databasepool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mainobject",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "server",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "databasepool",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "databasepool::@3fac9029014f9e212802",
+					"jsonFile" : "target-databasepool-Debug-0adc3e8f409e1f52d742.json",
+					"name" : "databasepool",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "databasepool_autogen::@3fac9029014f9e212802",
+					"jsonFile" : "target-databasepool_autogen-Debug-c579a55e80ba5c3231ff.json",
+					"name" : "databasepool_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "databasepool_autogen_timestamp_deps::@3fac9029014f9e212802",
+					"jsonFile" : "target-databasepool_autogen_timestamp_deps-Debug-68550bdbd0ed7e72c79e.json",
+					"name" : "databasepool_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mainobject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mainobject-Debug-7522dca21438903b36b8.json",
+					"name" : "mainobject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mainobject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mainobject_autogen-Debug-f47d28e9725628d681a3.json",
+					"name" : "mainobject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mainobject_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mainobject_autogen_timestamp_deps-Debug-5afcc7a3a1df0ef77f32.json",
+					"name" : "mainobject_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "server::@d19778d2e34a1e3ddfc0",
+					"jsonFile" : "target-server-Debug-d0ab04fdce5565a272ec.json",
+					"name" : "server",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "server_autogen::@d19778d2e34a1e3ddfc0",
+					"jsonFile" : "target-server_autogen-Debug-6c51281962a4e6920c6d.json",
+					"name" : "server_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "server_autogen_timestamp_deps::@d19778d2e34a1e3ddfc0",
+					"jsonFile" : "target-server_autogen_timestamp_deps-Debug-60840d665111a4ea5592.json",
+					"name" : "server_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "D:/qtproject/bigproject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

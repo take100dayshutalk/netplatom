@@ -1,0 +1,15 @@
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/mainobject.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/mainobject_autogen_timestamp_deps.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/mainobject_autogen.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/server/CMakeFiles/server.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/server/CMakeFiles/edit_cache.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/server/CMakeFiles/rebuild_cache.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/server/CMakeFiles/server_autogen_timestamp_deps.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/server/CMakeFiles/server_autogen.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/databasepool/CMakeFiles/databasepool.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/databasepool/CMakeFiles/edit_cache.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/databasepool/CMakeFiles/rebuild_cache.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/databasepool/CMakeFiles/databasepool_autogen_timestamp_deps.dir
+D:/qtproject/bigproject/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/databasepool/CMakeFiles/databasepool_autogen.dir
